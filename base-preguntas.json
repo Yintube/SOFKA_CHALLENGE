@@ -1,0 +1,202 @@
+[
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Cantidad de hijos que tienen Homero y Marge",
+        "respuesta": "3",
+        "incorrecta1": "2",
+        "incorrecta2": "1",
+        "incorrecta3": "0\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Lo que mas come y toma Homero?",
+        "respuesta": "Cerveza y Donas",
+        "incorrecta1": "Cerveza y mani",
+        "incorrecta2": "Todo lo come por igual",
+        "incorrecta3": "Es Anorexico\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llaman los dos protagonistas de hora de aventura?",
+        "respuesta": "Finn y Jake",
+        "incorrecta1": "Fionna y Cake",
+        "incorrecta2": "Jaque y Mate",
+        "incorrecta3": "Mario y Roberto\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién disparó al Sr. Burns?",
+        "respuesta": "Maggie Simpson",
+        "incorrecta1": "Smithers",
+        "incorrecta2": "Homer Simpson",
+        "incorrecta3": "Pequeño Ayudante de Santa Claus\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama la hija de Bella Swan en la Saga Crepúsculo?",
+        "respuesta": "Renesme",
+        "incorrecta1": "Rene",
+        "incorrecta2": "Bella",
+        "incorrecta3": "Merline\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Enfermedad que ataca al hígado.",
+        "respuesta": "Hepatitis",
+        "incorrecta1": "Renitis",
+        "incorrecta2": "Bulimia",
+        "incorrecta3": "Onicomicosis\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Órgano del cuerpo humano produce la bilis.",
+        "respuesta": "Hígado",
+        "incorrecta1": "Páncreas",
+        "incorrecta2": "Estomago",
+        "incorrecta3": "Riñón\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Dónde vive el delfín rosado?",
+        "respuesta": "En Brasil",
+        "incorrecta1": "En Oceanía",
+        "incorrecta2": "Solo En Aguas Cálidas",
+        "incorrecta3": "Solo En Aguas Muy Frías\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo debería estar una persona para que le fuera practicada una autopsia? ",
+        "respuesta": "Muerta",
+        "incorrecta1": "En Coma",
+        "incorrecta2": "Dormida",
+        "incorrecta3": "Sedada\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuántas cavidades estomacales tiene una vaca?",
+        "respuesta": "Cuatro",
+        "incorrecta1": "Una",
+        "incorrecta2": "Dos",
+        "incorrecta3": "Tres\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué país fue dirigido por Stalin?",
+        "respuesta": "Unión Soviética",
+        "incorrecta1": "Cuba",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Polonia\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué se celebra el 8 de Marzo?",
+        "respuesta": "El Día De La Mujer",
+        "incorrecta1": "El Día Del Trabajo",
+        "incorrecta2": "El Día Del Medio Ambiente",
+        "incorrecta3": "El Día Del Niño\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué imperio llegó a conquistar casi toda Europa?",
+        "respuesta": "Romano",
+        "incorrecta1": "Cartago",
+        "incorrecta2": "Espartano",
+        "incorrecta3": "Vikingo\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quiénes fueron los Reyes Católicos?",
+        "respuesta": "Isabel I Y Fernando II",
+        "incorrecta1": "Juana I Y Felipe I",
+        "incorrecta2": "Isabel II Y Francisco De Asís",
+        "incorrecta3": "Isabel I Y Fernando VII\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Dónde vivía Ana Frank?",
+        "respuesta": "Ámsterdam",
+        "incorrecta1": "Berlín",
+        "incorrecta2": "Viena",
+        "incorrecta3": "Brujas\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Qué odia Mafalda?",
+        "respuesta": "La Sopa",
+        "incorrecta1": "El Ruido",
+        "incorrecta2": "La Gente",
+        "incorrecta3": "A Su Madre\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "filósofo que dijo 'solo sé que no sé nada'",
+        "respuesta": "Sócrates",
+        "incorrecta1": "Edipo",
+        "incorrecta2": "Arquímedes",
+        "incorrecta3": "Pitágoras\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "es la autora de \"Los Juegos del Hambre\"",
+        "respuesta": "Suzanne Collins",
+        "incorrecta1": "Katherine burn",
+        "incorrecta2": "Penelope Sanchez",
+        "incorrecta3": "Katniss Everdeen\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cómo despertó el príncipe a la Bella Durmiente?",
+        "respuesta": "Besándola",
+        "incorrecta1": "Golpeándola",
+        "incorrecta2": "Acariciándola",
+        "incorrecta3": "Mojándola"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Perímetro del Círculo",
+        "respuesta": "2πr",
+        "incorrecta1": "πr²",
+        "incorrecta2": "π²",
+        "incorrecta3": "Ninguna es correcta\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "π (Pi)",
+        "respuesta": "3.14159265358979323846264338327950288419716939...",
+        "incorrecta1": "1,41421356237309504880168872420969807856967187…",
+        "incorrecta2": "1.73205080756887729352744634150587236694280525…",
+        "incorrecta3": "2.23606797749978969640917366873127623544061835...\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estos tres seis (6×6)-6",
+        "respuesta": "30",
+        "incorrecta1": "31",
+        "incorrecta2": "29",
+        "incorrecta3": "28\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Los numeros que pueden escribirse como la razon de dos enteros se denominan... ",
+        "respuesta": "Racionales",
+        "incorrecta1": "Enteros",
+        "incorrecta2": "Imaginarios",
+        "incorrecta3": "Compuestos\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Fraccion equivalente a 4/3",
+        "respuesta": "12/9",
+        "incorrecta1": "15/21",
+        "incorrecta2": "2/3",
+        "incorrecta3": "16/6\r"
+    }
+]
